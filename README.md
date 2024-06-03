@@ -8,7 +8,7 @@ A web would perform a simple CRUD functions on a student list.
 3. Implementation
 a. Database
 Table Students:
-<img width="270" alt="image" src="https://github.com/tttttien/FirstCRUDWebApp/assets/146319379/d2a97eee-bd18-445c-a8e3-531397628094">
+<img width="700" alt="image" src="https://github.com/tttttien/FirstCRUDWebApp/assets/146319379/d2a97eee-bd18-445c-a8e3-531397628094">
 
 b. Main Functions
 - Create Student:
