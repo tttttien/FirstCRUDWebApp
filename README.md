@@ -1,6 +1,6 @@
 # FirstCRUDWebApp
-Here is our first project to create a web.
-1. Introduction
+Here is our first project to create a web.<br />
+1. Introduction<br />
 A web would perform a simple CRUD functions on a student list.
 2. Architecture
  <img width="468" alt="image" src="https://github.com/tttttien/FirstCRUDWebApp/assets/146319379/600db75b-7eac-4e87-ac3c-07c7a8b6f18c">
