@@ -8,11 +8,11 @@ A web would perform a simple CRUD functions on a student list.
 3. Implementation
 a. Database
 Table Students:
-STT	Field name	Data Type	Note
-1	ID	int	Primary Key
-2	FullName	string	
-3	StudentPhone	string	
-4	StudentAddress	string	
+| No.           | Field         | DataType  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 b. Main Functions
 - Create Student:
  <img width="203" alt="image" src="https://github.com/tttttien/FirstCRUDWebApp/assets/146319379/a0c05986-75cc-4740-96d8-e7a28bf50918">
