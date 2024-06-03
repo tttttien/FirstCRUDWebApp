@@ -1,4 +1,4 @@
-![image](https://github.com/tttttien/FirstCRUDWebApp/assets/146319379/d093bd9f-824d-4411-b6f2-b5d7c9831042)# FirstCRUDWebApp
+# FirstCRUDWebApp
 Here is our first project to create a web.
 1. Introduction
 A web would perform a simple CRUD functions on a student list.
