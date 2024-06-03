@@ -12,16 +12,16 @@ Table Students:<br />
 
 b. Main Functions<br />
 - Create Student:<br />
- <img width="203" alt="image" src="https://github.com/tttttien/FirstCRUDWebApp/assets/146319379/a0c05986-75cc-4740-96d8-e7a28bf50918">
+ <img width="500" alt="image" src="https://github.com/tttttien/FirstCRUDWebApp/assets/146319379/a0c05986-75cc-4740-96d8-e7a28bf50918">
 
 - Retrieve Student:<br />
- <img width="270" alt="image" src="https://github.com/tttttien/FirstCRUDWebApp/assets/146319379/9af0e8d7-96fd-40cc-b88c-52f5640ee3ca">
+ <img width="500" alt="image" src="https://github.com/tttttien/FirstCRUDWebApp/assets/146319379/9af0e8d7-96fd-40cc-b88c-52f5640ee3ca">
 
 - Update Student:<br />
- <img width="403" alt="image" src="https://github.com/tttttien/FirstCRUDWebApp/assets/146319379/66bf2e45-0cc9-4581-abde-6678935f8194">
+ <img width="600" alt="image" src="https://github.com/tttttien/FirstCRUDWebApp/assets/146319379/66bf2e45-0cc9-4581-abde-6678935f8194">
 
 - Delete Student:<br />
- <img width="299" alt="image" src="https://github.com/tttttien/FirstCRUDWebApp/assets/146319379/1e885ae5-5918-4893-af93-51d0b1dce908">
+ <img width="500" alt="image" src="https://github.com/tttttien/FirstCRUDWebApp/assets/146319379/1e885ae5-5918-4893-af93-51d0b1dce908">
 
 c. Demonstration<br />
 - The list:<br />
